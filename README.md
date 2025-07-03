@@ -13,7 +13,7 @@ This project involves building a machine learning model to detect spam emails us
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hendrix-04/Heart_disease
+git clone https://github.com/hendrix-04/email_spam
 ```
 
 2. Install dependencies:
